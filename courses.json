@@ -1,0 +1,1070 @@
+{
+  "university": "Imperial College London",
+  "base_url": "https://www.imperial.ac.uk/",
+  "courses_found": 118,
+  "courses": [
+    {
+      "name": "Website navigation",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "College London Scholarship Women",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.746525"
+    },
+    {
+      "name": "Global site navigation",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "Faculty of Engineering Faculty",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.746692"
+    },
+    {
+      "name": "User links navigation",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "Faculty of Engineering Faculty",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.746833"
+    },
+    {
+      "name": "Study navigation",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "College London Scholarship Women",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747506"
+    },
+    {
+      "name": "Find a course",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747534"
+    },
+    {
+      "name": "Advanced Aeronautical Engineering",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747582"
+    },
+    {
+      "name": "Advanced Chemical Engineering",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747628"
+    },
+    {
+      "name": "Advanced Chemical Engineering with Biotechnology",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747673"
+    },
+    {
+      "name": "Advanced Computational Methods for Aeronautics, Flow Management and Fluid-Structure Interaction",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747721"
+    },
+    {
+      "name": "Advanced Computing",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747763"
+    },
+    {
+      "name": "Advanced Materials for Sustainable Infrastructure",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747807"
+    },
+    {
+      "name": "Advanced Materials Science and Engineering",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747855"
+    },
+    {
+      "name": "Advanced Mechanical Engineering",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747899"
+    },
+    {
+      "name": "Advanced Molecular Synthesis",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747944"
+    },
+    {
+      "name": "Aeronautical Engineering",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.747986"
+    },
+    {
+      "name": "Aeronautics with Spacecraft Engineering",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.748028"
+    },
+    {
+      "name": "Analogue and Digital Integrated Circuit Design",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.748073"
+    },
+    {
+      "name": "Filter Courses",
+      "degree": "Bachelor's",
+      "duration": "1 year",
+      "fees": "Contact university",
+      "department": "College of Art (Battersea)",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.748449"
+    },
+    {
+      "name": "Study level",
+      "degree": "Bachelor's",
+      "duration": "1 year",
+      "fees": "Contact university",
+      "department": "College of Art (Battersea)",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.748808"
+    },
+    {
+      "name": "Subject area",
+      "degree": "Bachelor's",
+      "duration": "1 year",
+      "fees": "Contact university",
+      "department": "College of Art (Battersea)",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.749164"
+    },
+    {
+      "name": "Study options",
+      "degree": "Bachelor's",
+      "duration": "1 year",
+      "fees": "Contact university",
+      "department": "College of Art (Battersea)",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.749518"
+    },
+    {
+      "name": "Course length",
+      "degree": "Bachelor's",
+      "duration": "1 year",
+      "fees": "Contact university",
+      "department": "College of Art (Battersea)",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.749872"
+    },
+    {
+      "name": "Study location",
+      "degree": "Bachelor's",
+      "duration": "1 year",
+      "fees": "Contact university",
+      "department": "College of Art (Battersea)",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.750226"
+    },
+    {
+      "name": "Compare Courses",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.750259"
+    },
+    {
+      "name": "Useful Links",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "College Academic Health Science",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.750333"
+    },
+    {
+      "name": "Popular links",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.750363"
+    },
+    {
+      "name": "Directories",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.750393"
+    },
+    {
+      "name": "College Information",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "College Information Imperial College",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.750492"
+    },
+    {
+      "name": "Site Information",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "College London",
+      "url": "https://www.imperial.ac.uk/study/courses/",
+      "scraped_at": "2026-01-15T01:49:14.750560"
+    },
+    {
+      "name": "Summer schools",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "schools Summer schools",
+      "url": "https://www.imperial.ac.uk/study/visit/summer-schools/",
+      "scraped_at": "2026-01-15T01:49:16.026750"
+    },
+    {
+      "name": "Summer at Imperial",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "school experience in one",
+      "url": "https://www.imperial.ac.uk/study/visit/summer-schools/",
+      "scraped_at": "2026-01-15T01:49:16.026806"
+    },
+    {
+      "name": "Summer schools for high school students",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "schools for high school",
+      "url": "https://www.imperial.ac.uk/study/visit/summer-schools/",
+      "scraped_at": "2026-01-15T01:49:16.026886"
+    },
+    {
+      "name": "Summer schools for current undergraduates",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "schools for current undergraduates",
+      "url": "https://www.imperial.ac.uk/study/visit/summer-schools/",
+      "scraped_at": "2026-01-15T01:49:16.026935"
+    },
+    {
+      "name": "Apply to Imperial",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344382"
+    },
+    {
+      "name": "Got a question?",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344468"
+    },
+    {
+      "name": "We are a global top 10 university in London",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344555"
+    },
+    {
+      "name": "Applying for undergraduate study",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344580"
+    },
+    {
+      "name": "Preparing to apply",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344625"
+    },
+    {
+      "name": "Application process",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344673"
+    },
+    {
+      "name": "Explore more with on-demand talks and tasters",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344714"
+    },
+    {
+      "name": "Applying for postgraduate taught study",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344740"
+    },
+    {
+      "name": "Applying for doctoral study",
+      "degree": "PhD",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.344873"
+    },
+    {
+      "name": "Need a visa to study in the UK?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345007"
+    },
+    {
+      "name": "International students",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345032"
+    },
+    {
+      "name": "International admissions",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345128"
+    },
+    {
+      "name": "Non-degree and visiting student opportunities",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345155"
+    },
+    {
+      "name": "Short courses for professionals",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345196"
+    },
+    {
+      "name": "Visiting student opportunities",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "schools Visiting students",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345241"
+    },
+    {
+      "name": "Virtual tour",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345285"
+    },
+    {
+      "name": "Further application support",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345358"
+    },
+    {
+      "name": "Be part of it",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/apply/",
+      "scraped_at": "2026-01-15T01:49:17.345402"
+    },
+    {
+      "name": "Study at a world-leading university",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618035"
+    },
+    {
+      "name": "It all starts with a question…",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618136"
+    },
+    {
+      "name": "What can I study?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618158"
+    },
+    {
+      "name": "How do I apply?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618177"
+    },
+    {
+      "name": "How can I fund my studies?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618198"
+    },
+    {
+      "name": "Is Imperial the right place for me?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618218"
+    },
+    {
+      "name": "Where will I live?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618238"
+    },
+    {
+      "name": "How will Imperial help my career?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618258"
+    },
+    {
+      "name": "Can I visit?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618277"
+    },
+    {
+      "name": "Is there help for international students?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618297"
+    },
+    {
+      "name": "Degree options",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618406"
+    },
+    {
+      "name": "Apply undergraduate",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618424"
+    },
+    {
+      "name": "Apply postgraduate taught",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618442"
+    },
+    {
+      "name": "Apply doctoral",
+      "degree": "PhD",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618459"
+    },
+    {
+      "name": "Where scientific imagination leads to world-changing impact",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618479"
+    },
+    {
+      "name": "Non-degree options",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618528"
+    },
+    {
+      "name": "Institute of Extended Learning",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618547"
+    },
+    {
+      "name": "Visiting students",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618587"
+    },
+    {
+      "name": "Visit our help centre",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/",
+      "scraped_at": "2026-01-15T01:49:18.618665"
+    },
+    {
+      "name": "Visit Imperial",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.885903"
+    },
+    {
+      "name": "Events and visits",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.885995"
+    },
+    {
+      "name": "On-campus events",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886050"
+    },
+    {
+      "name": "Virtual visits",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886103"
+    },
+    {
+      "name": "Search our events",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "schools for high school",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886646"
+    },
+    {
+      "name": "South Kensington campus tours",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886699"
+    },
+    {
+      "name": "Other visit opportunities",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886731"
+    },
+    {
+      "name": "Teachers and counsellors",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "school groups Teachers and",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886850"
+    },
+    {
+      "name": "Life at Imperial",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886942"
+    },
+    {
+      "name": "Our campuses",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.886995"
+    },
+    {
+      "name": "Our community",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.887041"
+    },
+    {
+      "name": "Other useful links",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/visit/",
+      "scraped_at": "2026-01-15T01:49:19.887174"
+    },
+    {
+      "name": "Student life",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173354"
+    },
+    {
+      "name": "Your life at Imperial",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173472"
+    },
+    {
+      "name": "Accommodation",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173564"
+    },
+    {
+      "name": "A day in the life of Imperial",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "College London is always",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173618"
+    },
+    {
+      "name": "Supporting your success",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173644"
+    },
+    {
+      "name": "Taking you further",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173690"
+    },
+    {
+      "name": "Imperial community",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173735"
+    },
+    {
+      "name": "Our central London location sets you at the heart of the world's most exciting city",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173779"
+    },
+    {
+      "name": "Education and research",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173804"
+    },
+    {
+      "name": "Your education",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173845"
+    },
+    {
+      "name": "Imperial research",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173891"
+    },
+    {
+      "name": "An education for the future",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.173935"
+    },
+    {
+      "name": "Further student life support",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/student-life/",
+      "scraped_at": "2026-01-15T01:49:21.174003"
+    },
+    {
+      "name": "Request your study guide",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/request-info/",
+      "scraped_at": "2026-01-15T01:49:22.439043"
+    },
+    {
+      "name": "Learn more about our events, how to apply and what's happening in our community.",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/request-info/",
+      "scraped_at": "2026-01-15T01:49:22.439111"
+    },
+    {
+      "name": "Fees and funding",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709422"
+    },
+    {
+      "name": "Imperial Bursary for Home students",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "£5,000/year",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709514"
+    },
+    {
+      "name": "Undergraduate fees and funding",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709539"
+    },
+    {
+      "name": "Tuition fees",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709580"
+    },
+    {
+      "name": "Financial support",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709620"
+    },
+    {
+      "name": "Postgraduate taught fees and funding",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709646"
+    },
+    {
+      "name": "Presidential scholarships for students of Black heritage",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "Faculty (Business, Engineering, Medicine",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709791"
+    },
+    {
+      "name": "Doctoral fees and funding",
+      "degree": "PhD",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709818"
+    },
+    {
+      "name": "How much does it cost to live in London as a student?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709950"
+    },
+    {
+      "name": "Further funding information",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.709975"
+    },
+    {
+      "name": "Further fees and funding support",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "scraped_at": "2026-01-15T01:49:23.710072"
+    },
+    {
+      "name": "Apply international",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/international-students/",
+      "scraped_at": "2026-01-15T01:49:25.054082"
+    },
+    {
+      "name": "International fees and funding",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/international-students/",
+      "scraped_at": "2026-01-15T01:49:25.054166"
+    },
+    {
+      "name": "International non-degree and visiting student opportunities",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/international-students/",
+      "scraped_at": "2026-01-15T01:49:25.054442"
+    },
+    {
+      "name": "Non-degree courses",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "schools Imperial Institute of",
+      "url": "https://www.imperial.ac.uk/study/international-students/",
+      "scraped_at": "2026-01-15T01:49:25.054479"
+    },
+    {
+      "name": "Further support for international students",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/international-students/",
+      "scraped_at": "2026-01-15T01:49:25.054573"
+    },
+    {
+      "name": "What do you need help with?",
+      "degree": "Unknown",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/help-centre/",
+      "scraped_at": "2026-01-15T01:49:26.312311"
+    },
+    {
+      "name": "Undergraduate admissions",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/help-centre/",
+      "scraped_at": "2026-01-15T01:49:26.312344"
+    },
+    {
+      "name": "Postgraduate admissions",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/help-centre/",
+      "scraped_at": "2026-01-15T01:49:26.312378"
+    },
+    {
+      "name": "Funding and scholarships",
+      "degree": "Bachelor's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/help-centre/",
+      "scraped_at": "2026-01-15T01:49:26.312440"
+    },
+    {
+      "name": "Student support",
+      "degree": "Master's",
+      "duration": "Varies",
+      "fees": "Contact university",
+      "department": "General",
+      "url": "https://www.imperial.ac.uk/study/help-centre/",
+      "scraped_at": "2026-01-15T01:49:26.312469"
+    }
+  ],
+  "scraped_at": "2026-01-15T01:49:27.320945"
+}
