@@ -11,7 +11,7 @@ import sqlite3
 import os
 from datetime import datetime
 
-# Fail fast if these aren't installed - standard dev behavior
+# Fail fast if these aren't installed 
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.feature_extraction.text import TfidfVectorizer
