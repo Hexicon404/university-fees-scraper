@@ -9,7 +9,7 @@ Unlike standard datasets, university pricing is often buried in HTML text. This 
 * **Web Scraping:** Ethical crawling with `requests` and `BeautifulSoup`.
 * **NLP Feature Extraction:** Using `TF-IDF` to vectorize course titles for analysis.
 * **Unsupervised Learning:** K-Means clustering to discover latent groupings in course types.
-* **Data Persistence:** Structured storage using `SQLite3` for relational querying.
+* **Data Persistence:** Structured storage using `SQLite3` for relational querying. 
 
 ---
 
